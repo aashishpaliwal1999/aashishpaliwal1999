@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aashish Paliwal</h1>
-<h3 align="center">A want to be software developer from India, Currently working as Senior Automation Engineer.</h3>
+<h3 align="center"> I want to be a software developer from India, Currently working as a Senior Automation Engineer.</h3>
 
 - 🔭 I’m currently working on **BuGGed which is an online bug-tracking system.**
 
